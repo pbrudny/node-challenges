@@ -12,10 +12,13 @@
     "url": "git+https://github.com/pbrudny/node-challenges.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "pbrudny",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pbrudny/node-challenges/issues"
   },
-  "homepage": "https://github.com/pbrudny/node-challenges#readme"
+  "homepage": "https://github.com/pbrudny/node-challenges#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
